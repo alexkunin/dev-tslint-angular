@@ -96,7 +96,8 @@ exports = module.exports = {
       true,
       {
         "multiline": "always",
-        "singleline": "never"
+        "singleline": "never",
+        "esSpecCompliant": true
       }
     ],
     "no-conflicting-lifecycle": true,
